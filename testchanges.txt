@@ -1,4 +1,8 @@
 changes
 changes 3
+<<<<<<< Updated upstream
 Changes 4 from Web
 Changes 5 from Desktop
+=======
+Changes 4 from Desktop
+>>>>>>> Stashed changes
